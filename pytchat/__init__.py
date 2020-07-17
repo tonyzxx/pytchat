@@ -24,6 +24,7 @@ from .api import (
     TSVArchiver,
     JsonfileArchiver,
     SimpleDisplayProcessor,
+    PandasProcessor,
     SpeedCalculator,
     SuperchatCalculator,
     VideoInfo
