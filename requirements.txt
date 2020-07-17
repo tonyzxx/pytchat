@@ -1,4 +1,5 @@
 aiohttp
+pandas
 protobuf
 pytz
 requests
